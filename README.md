@@ -2,8 +2,9 @@
 
 In this project, I worked on a **Netflix streaming clone** using various DevSecOps practices. The goal was to build, secure, and monitor the application while setting up a continuous integration and continuous delivery (CI/CD) pipeline using Jenkins. I focused heavily on automation and integrating security checks throughout the process. Here’s a breakdown of the stacks and tools I used across different phases of the project:
 
-![Docker Setup](./public/assets/devsecops.png)
-*The complete workflow and all the stacks tools involved*
+![DevSecOps Flow](./public/assets/devsecops.png)
+*The complete workflow and all the stacks tools involved.*
+
 ---
 
 ### Phase 1: Initial Setup and Deployment
