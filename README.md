@@ -9,6 +9,7 @@ In this project, I worked on a **Netflix streaming clone** using various **DevSe
 - **Jenkins**: CI/CD automation
 - **Docker**: Containerization of the application
 - **Kubernetes**: Orchestration and deployment
+- **Amazon EKS**: Managed Kubernetes service for deployment
 - **SonarQube**: Static code analysis for security checks
 - **Trivy**: Security vulnerability scanning
 - **Prometheus & Grafana**: Monitoring and alerting
