@@ -1,6 +1,21 @@
 # Netflix Clone DevSecOps Project
 
-In this project, I worked on a **Netflix streaming clone** using various DevSecOps practices. The goal was to build, secure, and monitor the application while setting up a continuous integration and continuous delivery (CI/CD) pipeline using Jenkins. I focused heavily on automation and integrating security checks throughout the process. Here’s a breakdown of the stacks and tools I used across different phases of the project:
+In this project, I worked on a **Netflix streaming clone** using various **DevSecOps practices**. The goal was to **build**, **secure**, and **monitor** the application while setting up a **continuous integration and continuous delivery (CI/CD) pipeline** using **Jenkins**. I focused heavily on **automation** and integrating **security checks** throughout the process.
+
+---
+
+## 🚀 Tech Stack and Tools Used:
+
+- **Jenkins**: CI/CD automation
+- **Docker**: Containerization of the application
+- **Kubernetes**: Orchestration and deployment
+- **SonarQube**: Static code analysis for security checks
+- **Trivy**: Security vulnerability scanning
+- **Prometheus & Grafana**: Monitoring and alerting
+- **ArgoCD**: GitOps for continuous delivery
+- **Helm**: Kubernetes package manager
+
+These tools enabled me to build a **fully automated pipeline** that ensures security is built into every step, from **development to deployment**.
 
 ![DevSecOps Flow](./public/assets/devsecops.png)
 *The complete workflow and all the stacks tools involved.*
@@ -64,4 +79,19 @@ Once the deployment was complete, the Netflix streaming clone was fully function
 ### Conclusion
 This project gave me hands-on experience with a wide variety of DevSecOps tools and technologies such as Jenkins, SonarQube, Trivy, Prometheus, Grafana, Docker, Kubernetes, and ArgoCD. The emphasis was not just on getting the Netflix clone app up and running but ensuring it was secure and properly monitored.
 
+--- 
+
+## 📽️ Project Demo Video
+
+Check out the full video walkthrough of this project on YouTube:  
+[![Watch the video](https://img.youtube.com/vi/-o3ZdryOWWc/0.jpg)](https://youtu.be/-o3ZdryOWWc)
+
 ---
+
+### 📝 Additional Links
+- [GitHub Repository](https://github.com/olukayodedevs/Streaming-App-DevSecOp/)
+- [Connect with me on LinkedIn](https://www.linkedin.com/in/arindeolukayode/)
+
+---
+
+*The image is automatically pushed to DockerHub after building the application.*
